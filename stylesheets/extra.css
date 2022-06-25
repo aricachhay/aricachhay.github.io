@@ -1,0 +1,22 @@
+
+
+[data-md-color-primary=grey] {
+    --md-primary-fg-color: #444;
+    --md-primary-fg-color--light: #666;
+    --md-primary-fg-color--dark: #333;
+    --md-primary-bg-color: #fff;
+    --md-primary-bg-color--light: hsla(0,0%,100%,0.7);
+  }
+
+.md-typeset a {
+      text-decoration: underline !important;
+
+  }
+
+h1 {
+  margin: 1em 0 0.5em !important;
+}
+
+h2 {
+  margin: 0.5em 0 .64em !important;
+}
